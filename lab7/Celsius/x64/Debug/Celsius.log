@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\fmrac\source\repos\Celsius\Celsius\main.cpp(8,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fmrac\source\repos\Celsius\Celsius\main.cpp(13,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Celsius.vcxproj -> C:\Users\fmrac\source\repos\Celsius\x64\Debug\Celsius.exe
